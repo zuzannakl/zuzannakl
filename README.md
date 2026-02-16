@@ -1,4 +1,11 @@
+<p align="center">
 🎓 Mathematics and Data Analysis student at Wrocław University of Science and Technology - 3rd year<br><br>
 📊 Interested in data analysis, machine learning and statistics<br><br>
-🛠 Skills: Python • R • SQL • C++ • Statistics • Data Analysis • Visualization • Excel • Latex <br><br>
-[![Email](https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuzanna.klaman774@gmail.com)
+
+🛠 Skills:<br>
+Python • R • SQL • C++ • Statistics • Data Analysis • Visualization • Excel • Latex<br><br>
+
+<a href="mailto:zuzanna.klaman774@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
