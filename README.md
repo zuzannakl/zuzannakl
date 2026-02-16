@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🎓 Mathematics and Data Analysis student at Wrocław University of Science and Technology
+📊 Interested in data analysis,  machine learning and statistics
 <!--
 **zuzannakl/zuzannakl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
