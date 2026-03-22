@@ -3,6 +3,7 @@
 🛠 Skills:<br> Python • C++ • SQL • R • statistics • CNN basics • Excel • Access • LaTeX <br><br> 
 🤗 Aspiring data analyst (data scientist) seeking opportunities to develop in data analysis, SQL database management, and Data Science applications. <br><br>
 🔍 Strong analytical mindset with excellent organizational skills and attention to detail. Patient, precise, and able to quickly learn and adapt to new tools. <br><br>
+🌍 Native Polish speaker, fluent in English (B2/C1), with basic knowledge of German (A2). <br><br>
 (Reports and code are mostly in Polish, but structure and projects are clearly organized)
 <p align="center">
   <a href="mailto:zuzanna.klaman774@gmail.com">
